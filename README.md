@@ -6,7 +6,9 @@
 
 相比GPT，pandas本身也在快速进步着。实际上，就在二月中旬，[pandas发布了2.0大版本](https://datapythonista.me/blog/pandas-20-and-the-arrow-revolution-part-i)，引入了PyArrow、优化了内存计算方法、优化了索引结构，以后用Pandas进行机器学习和大数据分析工作就更加便捷了。
 
-![](https://upload-images.jianshu.io/upload_images/7178691-8dfb9dd7b75260aa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/41240)
+<div align=center>
+   <img src="https://upload-images.jianshu.io/upload_images/7178691-8dfb9dd7b75260aa.png" width="500px">
+</div>
 
 第三版多了**41**页内容，pandas升级为1.4.0、Python升级为3.10。第三版最大的变化是**紧贴pandas升级，主要是新增了方法和特性的内容**。另外，第三版有作者的[在线开源电子版](https://wesmckinney.com/book/)了，可以从[GitHub地址](https://github.com/wesm/pydata-book)和[Gitee地址](https://gitee.com/wesmckinn/pydata-book)下载本书代码。
 
